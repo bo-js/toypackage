@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of toypackage is to create a function which greets the user.
+The goal of toypackage is to provide a function which greets the user.
 
 ## Installation
 

@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of toypackage is to …
+The goal of toypackage is to provide a function which greets the user.
 
 ## Installation
 
